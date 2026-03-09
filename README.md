@@ -42,12 +42,13 @@ The traditional platform economy created a structural imbalance.
 
 Platforms centralized ownership and decision-making while distributing operational risk downward to the people performing the work.
 
-Drivers move the passengers.  
-Couriers deliver the food.  
-Technicians fix the systems.  
-Operators sustain the service.
+- Drivers move the passengers.  
+- Couriers deliver the food.  
+- Technicians fix the systems.  
+- Operators sustain the service.
 
-Yet the systems they sustain rarely belong to them in any meaningful way.
+**Yet the systems they sustain rarely belong to them in any meaningful way.
+**
 
 The Execution Economy proposes a different structure:
 
