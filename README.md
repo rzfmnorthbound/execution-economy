@@ -12,6 +12,9 @@ It is not a traditional cooperative model.
 
 It is a new enterprise architecture for the AI era.
 
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/b1e5b86c-d7ef-4e91-8796-7cc10c51349d" />
+
+
 ---
 
 ## Core Concepts
