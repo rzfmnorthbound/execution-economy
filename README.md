@@ -2,126 +2,156 @@
 
 **A new enterprise model where value follows execution.**
 
-The Execution Economy introduces a structural evolution of the platform economy.
-
-It proposes a new type of company: the **Execution-Owned Enterprise**, where the network of people performing the work participates meaningfully in governance, reputation systems, and value creation.
-
-This is not a rejection of markets.  
-It is not a return to rigid hierarchies.  
-It is not a traditional cooperative model.
-
-It is a new enterprise architecture for the AI era.
-
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/4b0697ce-7807-472a-a8a0-6ba72e6cc0a4" />
-
+The Execution Economy introduces a structural evolution of the platform economy.  
+It proposes a new type of company — the **Execution‑Owned Enterprise** — where the network of people performing the work participates meaningfully in governance, reputation systems and economic value creation.  
+This is not a rejection of markets or founders. It is a modern enterprise architecture for the AI era, designed to align incentives among founders, operators and executors.
 
 ---
 
-## Core Concepts
+## Core concepts
 
-### Execution Economy
-The category.
-
-A new framework for organizing enterprises in a world where software becomes abundant, but human execution remains the foundation of real value.
-
-### Execution-Owned Enterprise
-The company model.
-
-A business structure where founders lead, operators coordinate, and the execution network participates structurally in governance and economic value creation.
-
-### Execution Network
-The primary operational asset.
-
-The real strength of the enterprise is not the interface alone, but the network of people who execute the service with quality, continuity, and accountability.
+| Concept | Description |
+|--------|-------------|
+| **Execution Economy** | The overarching category describing a new way to organize enterprises when software is abundant but human execution remains the foundation of real value. |
+| **Execution‑Owned Enterprise** | The company model built around execution networks. Founders lead, domain heads operate and coordinate, and the execution network becomes a structural participant in both governance and value creation. |
+| **Execution Network** | The operational backbone of the enterprise. Drivers, technicians, operators and service providers who create the service. They hold 49 % of strategic voice and share in economic participation proportional to their contribution. |
 
 ---
 
-## Why This Exists
+## The model at a glance
 
-The traditional platform economy created a structural imbalance.
+The Execution Economy can be represented as three interconnected layers. Strategic direction flows from founders to domain heads to executors, while value flows from customers through the platform to the execution network.
 
-Platforms centralized ownership and decision-making while distributing operational risk downward to the people performing the work.
+```
+                         +----------------------+ 
+                         |   FOUNDERS + BOARD   |
+                         | Strategic leadership |
+                         |      51% voice       |
+                         +----------+-----------+
+                                    |
+                                    v
+                         +----------------------+
+                         |    DOMAIN HEADS      |
+                         | Operate & coordinate |
+                         |  quality / systems   |
+                         +----------+-----------+
+                                    |
+                                    v
+ +-------------+          +----------------------+          +----------------------+ 
+ | CUSTOMERS   | -------> |  PLATFORM LAYER      | -------> |  EXECUTION NETWORK   |
+ | demand      |          | infrastructure only  |          | the real asset       |
+ | services    |          | matching / payments  |          | 49% strategic voice  |
+ +-------------+          | trust / reputation   |          | execution + quality  |
+                          +----------------------+          | reputation + growth  |
+                                                             +----------+-----------+
+                                                                        |
+                                                                        v
+                                                             +----------------------+
+                                                             |   VALUE CREATION     |
+                                                             | real work delivered  |
+                                                             | real service quality |
+                                                             +----------------------+
+```
 
-- Drivers move the passengers.  
-- Couriers deliver the food.  
-- Technicians fix the systems.  
-- Operators sustain the service.
+You can also find text diagrams in [`docs/ASCII_DIAGRAMS.md`](docs/ASCII_DIAGRAMS.md).
 
-**Yet the systems they sustain rarely belong to them in any meaningful way.
-**
+---
+
+## Why this exists
+
+Traditional platforms centralized ownership and decision‑making while pushing operational risk downward to the people performing the work【453533534731398†L40-L58】.  
+Drivers move the passengers.  
+Couriers deliver the food.  
+Technicians fix the systems.  
+Operators sustain the service.  
+Yet the systems they sustain rarely belong to them in any meaningful way.  
 
 The Execution Economy proposes a different structure:
 
-- execution creates value
-- execution has voice
-- participation is active
-- quality is rewarded
-- platforms act as infrastructure, not extractive monopolies
+- **Execution creates value** and therefore must have a seat at the table.  
+- **Execution has voice**: a 49 % share in strategic decision making.  
+- **Participation is active**: economic participation is tied to ongoing contribution, with decay and freeze mechanisms.  
+- **Quality is rewarded**: customer ratings and reliability adjust execution units【286127764546600†L49-L67】.  
+- **Platforms act as infrastructure, not extractive monopolies.**
 
 ---
 
-## What This Repository Contains
+## Traditional platform vs. Execution Economy
 
-### Foundational Documents
+```
+TRADITIONAL PLATFORM
+--------------------
+• Workers perform the service
+• Platforms own the system
+• Platforms control the decisions
+• Platforms capture most of the upside
+• Workers carry most of the operational risk
 
-- [Manifesto](./MANIFESTO.md)
-- [Enterprise Model](./model/MODEL.md)
-- [Governance Model](./model/GOVERNANCE.md)
-- [Economic Model](./model/ECONOMICS.md)
-- [Principles](./principles/EXECUTION_PRINCIPLES.md)
+Execution creates the value,
+but execution remains structurally marginal.
 
-### Meta
+EXECUTION ECONOMY
+-----------------
+• Execution creates the value
+• Execution has voice
+• Participation is active
+• Quality is rewarded
+• Platforms act as infrastructure, not extractive monopolies
 
-- [Authors](./meta/AUTHORS.md)
-- [Origin](./meta/ORIGIN.md)
-- [License](./meta/LICENSE.md)
-- [Attribution](./meta/ATTRIBUTION.md)
-- [Roadmap](./meta/ROADMAP.md)
-
-### Website
-
-- [One Page Outline](./website/ONEPAGE_OUTLINE.md)
-
----
-
-## Design Principles
-
-The Execution Economy is built on a few core structural principles:
-
-- **Value should follow execution**
-- **Execution must have voice**
-- **Ownership must remain active**
-- **Quality must be rewarded**
-- **Reputation must matter**
-- **Networks outperform rigid hierarchies**
-- **Platforms should coordinate, not extract**
-- **Participation should evolve with merit**
-- **The network should be able to build the future**
+Execution creates the value,
+and the execution network participates in the system it sustains.
+```
 
 ---
 
-## Why It Matters Now
+## Governance ≠ Compensation
 
-As AI continues to reduce the cost of software creation, the competitive advantage of many companies will shift.
+The 51/49 split refers to **decision‑making power**, not salary or equity distribution【439113443820217†L102-L115】.  
+The Execution Economy separates governance, operations and economics:
 
-The future will not belong only to those who can build an interface.
-
-It will belong to those who can organize the strongest, most motivated, most trusted execution networks.
-
-The Execution Economy begins from that insight.
-
----
-
-## Author
-
-**Francisco Ruiz**  
-Founder — Northbound Intelligence
-
-Project: **Execution Economy Initiative**
+1. **Governance:** Founders + Board hold 51 % of the strategic voting power. The Execution Network holds 49 %. This prevents hostile capture while ensuring meaningful participation.
+2. **Operations:** Domain heads coordinate execution and quality. They translate strategy into workflows and are accountable for performance【82409648198548†L76-L88】.
+3. **Economics:** Value follows meaningful contribution. Executors earn execution units adjusted by quality and reputation. Compensation is proportional to contribution, not an equal split【286127764546600†L49-L67】. Extreme internal disparity is discouraged; founders and domain heads can earn more but not extract unlimited value.
 
 ---
 
-## Citation
+## Value proposition
+
+Why choose the Execution Economy?  
+It delivers concrete benefits for all stakeholders:
+
+- **Founders / Board:** Build a durable network asset with lower churn and higher quality; maintain strategic control while reducing PR and regulatory risks.  
+- **Domain heads:** Operate with a motivated network and aligned incentives; run quality operations without being undermined by extractive revenue pressures.  
+- **Executors:** Gain voice and economic participation; build reputation and income through quality and contribution; enjoy fairness and dignity in the workplace.  
+- **Investors:** Invest in a scalable, resilient model aligned with ESG criteria and built to thrive as software commodifies.  
+
+See [`docs/VALUE_ADD.md`](docs/VALUE_ADD.md) for a detailed breakdown of the value proposition.
+
+---
+
+## Case illustrations
+
+To see how the Execution Economy works for specific roles, explore the narratives in [`docs/EXAMPLE_CASE.md`](docs/EXAMPLE_CASE.md).  
+They illustrate the paths of a founder, a domain head and an executor, showing how each gains value and voice in an Execution‑Owned Enterprise.
+
+---
+
+## Documents
+
+- **Manifesto:** [`MANIFESTO.md`](MANIFESTO.md)  
+- **Model:** [`model/MODEL.md`](model/MODEL.md)  
+- **Governance:** [`model/GOVERNANCE.md`](model/GOVERNANCE.md)  
+- **Economics:** [`model/ECONOMICS.md`](model/ECONOMICS.md)  
+- **Principles:** [`principles/EXECUTION_PRINCIPLES.md`](principles/EXECUTION_PRINCIPLES.md)  
+- **ASCII Diagrams:** [`docs/ASCII_DIAGRAMS.md`](docs/ASCII_DIAGRAMS.md)  
+- **Value Proposition:** [`docs/VALUE_ADD.md`](docs/VALUE_ADD.md)  
+- **Case Illustrations:** [`docs/EXAMPLE_CASE.md`](docs/EXAMPLE_CASE.md)
+
+---
+
+## Authors and citation
+
+The Execution Economy and the Execution‑Owned Enterprise model were originally proposed and articulated by **Francisco Ruiz**, founder of Northbound Intelligence and creator of the Execution Economy Initiative.
 
 If you reference this framework, please cite:
 
@@ -131,12 +161,9 @@ If you reference this framework, please cite:
 
 ## License
 
-See [meta/LICENSE.md](./meta/LICENSE.md)
+See [`meta/LICENSE.md`](meta/LICENSE.md) for licensing details.
 
 ---
 
-## Copyright
-
-© 2026 Francisco Ruiz
-
-Execution Economy, Execution-Owned Enterprise, and the associated foundational framework introduced in this repository are original concepts first publicly articulated by the author through this publication.
+© 2026 Francisco Ruiz. All rights reserved.  
+Execution Economy and Execution‑Owned Enterprise are original concepts introduced in this repository.
