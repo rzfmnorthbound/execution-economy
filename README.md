@@ -1,78 +1,70 @@
 # The Execution Economy
 
-Empowering the people who do the work — a new company model for the AI era.
+*A new enterprise architecture for the AI era.*
 
-### Why this matters
+**Empowering the people who do the work.**
 
-- Traditional platforms centralize ownership and decision‑making while pushing risk downward to those who actually deliver the service【453533534731398†L40-L58】.
-- Drivers move passengers. Couriers deliver food. Technicians fix systems. Yet the platforms they sustain rarely belong to them【453533534731398†L40-L58】.
-- As software becomes abundant, the human network that executes the service becomes the real competitive advantage【453533534731398†L88-L98】.
+### TL;DR
 
-The Execution Economy flips this structure. Founders still lead and invest. Domain heads coordinate operations. But the execution network becomes a structural participant: it has a voice in strategic decisions, its contribution is measured and rewarded, and quality and reputation matter.
+- **Problem:** Platform companies centralise ownership and decision‑making while pushing operational risk onto the people who actually deliver the service【453533534731398†L40-L58】.
+- **Opportunity:** Software has become abundant; the real competitive advantage is the trusted execution network that brings technology to life【453533534731398†L88-L98】.
+- **Solution:** The Execution Economy flips the model: it gives executors a structural voice in governance, rewards quality and reputation, and aligns incentives across founders, operators and the execution network【439113443820217†L102-L115】.
 
 ### Who is this for?
 
-- **Founders & investors:** seeking a scalable model with aligned incentives.
-- **Domain heads & operators:** who want a motivated, high‑trust network.
-- **Executors (drivers, couriers, technicians…):** who want real voice and participation.
-- **Regulators & researchers:** exploring post‑platform models.
+- **Founders & investors:** building high‑trust, scalable companies with aligned incentives.
+- **Domain heads & operators:** running motivated, high‑quality networks.
+- **Executors:** drivers, couriers, technicians who want real voice and participation.
+- **Regulators & researchers:** exploring post‑platform enterprise architectures.
 
 ### Model at a glance
 
 ```
-THE EXECUTION ECONOMY
-A new enterprise model where value follows execution.
-
-                         +----------------------+
-                         |   FOUNDERS + BOARD   |
-                         | Strategic leadership |
-                         |      51% voice       |
-                         +----------+-----------+
-                                    |
-                                    v
-                         +----------------------+
-                         |    DOMAIN HEADS      |
-                         | Operate & coordinate |
-                         +----------+-----------+
-                                    |
-                                    v
-+-------------+          +----------------------+          +----------------------+
-| CUSTOMERS   | -------> |  PLATFORM LAYER      | -------> |  EXECUTION NETWORK   |
-| demand      |          | infrastructure only  |          | the real asset       |
-| services    |          | matching / payments  |          | 49% strategic voice  |
-+-------------+          | trust / reputation   |          | execution + quality  |
-                         +----------------------+          | reputation + growth   |
-                                                           +----------+-----------+
-                                                                      |
-                                                                      v
-                                                           +----------------------+
-                                                           |   VALUE CREATION     |
-                                                           | real work delivered  |
-                                                           | real service quality |
-                                                           +----------------------+
+                        +--------------------+
+                        |  Founders + Board  |
+                        |  vision & strategy |
+                        +---------+----------+
+                                  |
+                        +--------------------+
+                        |   Domain Heads     |
+                        |   operations       |
+                        +---------+----------+
+                                  |
+                        +--------------------+
+                        |  Execution Network |
+                        |  real work & value |
+                        +--------------------+
 ```
 
-### Key differences
+### Why this exists
 
-- **Platform model:** ownership and decisions stay at the top; workers carry operational risk; platforms extract most of the value.
-- **Execution Economy:** execution creates value; execution has voice; participation is active; quality is rewarded; platforms act as infrastructure.
+Traditional platforms centralise control and treat execution as a commodity. Drivers, couriers and technicians carry the risk while companies capture most of the upside【453533534731398†L40-L58】.
+
+The Execution Economy proposes a different structure: execution creates value, execution has voice, participation is active, quality is rewarded and platforms act as infrastructure, not extractive monopolies【453533534731398†L88-L98】.
+
+### How to get started
+
+See [`docs/GET_STARTED.md`](docs/GET_STARTED.md) for an implementation guide.
 
 ### Learn more
 
-- **Manifesto:** the vision and principles — see `MANIFESTO.md`.
-- **Model:** structure, governance and economics — see `model/`.
-- **FAQ:** common questions answered — see `docs/FAQ.md`.
-- **Get Started:** steps to build an Execution‑Owned Enterprise — see `docs/GET_STARTED.md`.
-- **Cases:** examples of founders, heads and executors — see `docs/EXAMPLE_CASE.md`.
+- [Manifesto](MANIFESTO.md)
+- [Enterprise model](model/MODEL.md)
+- [Governance model](model/GOVERNANCE.md)
+- [Economic model](model/ECONOMICS.md)
+- [Principles](principles/EXECUTION_PRINCIPLES.md)
+- [Value proposition](docs/VALUE_ADD.md)
+- [Case illustrations](docs/EXAMPLE_CASE.md)
+- [FAQ](docs/FAQ.md)
 
-Visit [executioneconomy.org](https://executioneconomy.org) for a visual introduction.
+### Authors & citation
 
-### Citation
+**Francisco Ruiz** – Founder, Northbound Intelligence
 
-If you reference this framework, please cite:
+*Citation:* Ruiz, F., *The Execution Economy: A New Enterprise Model Where Value Follows Execution*, Execution Economy Initiative, 2026.
 
-> Ruiz, Francisco. *The Execution Economy: A New Enterprise Model Where Value Follows Execution.* Execution Economy Initiative, 2026.
+### License
 
----
-
-© 2026 Francisco Ruiz — Manifesto licensed CC BY 4.0; model documentation CC BY‑NC‑SA 4.0.
+Manifesto: CC BY 4.0  
+Model documentation: CC BY-NC-SA 4.0
+Model documentation: CC BY-NC-SA 4.0
