@@ -23,7 +23,7 @@ This is not a rejection of markets or founders. It is a modern enterprise archit
 The Execution Economy can be represented as three interconnected layers. Strategic direction flows from founders to domain heads to executors, while value flows from customers through the platform to the execution network.
 
 ```
-                         +----------------------+
+                         +----------------------+ 
                          |   FOUNDERS + BOARD   |
                          | Strategic leadership |
                          |      51% voice       |
@@ -110,7 +110,7 @@ The 51/49 split refers to **decision‑making power**, not salary or equity dist
 The Execution Economy separates governance, operations and economics:
 
 1. **Governance:** Founders + Board hold 51 % of the strategic voting power. The Execution Network holds 49 %. This prevents hostile capture while ensuring meaningful participation.
-2. **Operations:** Domain heads coordinate execution and quality. They translate strategy into workflows and are accountable for performance【849289727163362†L76-L88】.
+2. **Operations:** Domain heads coordinate execution and quality. They translate strategy into workflows and are accountable for performance【82409648198548†L76-L88】.
 3. **Economics:** Value follows meaningful contribution. Executors earn execution units adjusted by quality and reputation. Compensation is proportional to contribution, not an equal split【286127764546600†L49-L67】. Extreme internal disparity is discouraged; founders and domain heads can earn more but not extract unlimited value.
 
 ---
